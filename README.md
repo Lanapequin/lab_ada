@@ -1,10 +1,10 @@
-# 🧪 Laboratorio 2 — Especificaciones de la App
+# Especificaciones de la App
 ### App: Simulaciones Educativas sobre el Antiguo Egipto
 ### Público objetivo: Estudiantes de secundaria en Colombia (12–17 años)
 
 ---
 
-## 📋 Historias de Usuario
+## Historias de Usuario
 
 | ID | Historia |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## 🗺️ Mapa de Componentes v1
+## Mapa de Componentes
 
 ### Módulos principales
 
@@ -98,12 +98,12 @@ C4  → C14  (simulación → gestor offline)
 
 ### Notas
 
-- ✅ **MVP incluye:** C1, C2, C3, C4, C5, C6, C7, C8, C10, C11
-- 🔮 **Futuro:** C12, C13 (panel docente), C14, C15 (modo offline completo)
+- **MVP incluye:** C1, C2, C3, C4, C5, C6, C7, C8, C10, C11
+- **Futuro:** C12, C13 (panel docente), C14, C15 (modo offline completo)
 
 ---
 
-## 📦 Especificaciones de Componentes (2.2)
+## Especificaciones de Componentes (2.2)
 
 ---
 
@@ -386,7 +386,7 @@ C4  → C14  (simulación → gestor offline)
 
 ---
 
-## ✅ Trazabilidad HU → Componentes
+## Trazabilidad HU → Componentes
 
 | Historia de Usuario | Componentes que la cubren |
 |---|---|
